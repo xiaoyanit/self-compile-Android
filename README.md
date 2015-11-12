@@ -1,7 +1,7 @@
 # Self-compiling Android application (Experimental)
 
 _Disclaimer: only works on Android 4.3_r3.1 with Galaxy Nexus. Or Cyanogenmod 12.1 of android 5.1.1, comfirmed on Nexus 5,6 and 10 devices._
-
+荷兰的研究人员[正在开发](https://thestack.com/world/2015/11/05/the-self-replicating-smartphone-app-thats-ready-for-the-apocalypse-and-the-censors/)在自然灾难等导致现有通信设施崩溃的情况下紧急通信的工具。这种工具能自我复制、突变，像病毒一样传播，在手机设备之间创造一个网状网。在论文[《自治智能手机应用：自我编译，突变和病毒传播》](http://arxiv.org/pdf/1511.00444v2)况下建立智能手机菊链网状网的工具。目前该工具只能在 Android 下工作，未来考虑支持其它移动系统如 iOS 和 Windows，它不需要 Root 权限，没有考虑通过 Google Play 等中心化应用市场传播。
 ## Autonomous smartphone apps: self-compilation, mutation, and viral spreading
 
 *Mutate an Android app at the source code level.*
